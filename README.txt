@@ -1,0 +1,1 @@
+To run the project import in STM32CubeIDE the zip folder. 
